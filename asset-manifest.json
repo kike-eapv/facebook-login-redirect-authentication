@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/facebook-login-redirect-authentication/static/css/main.c461429a.css",
-    "main.js": "/facebook-login-redirect-authentication/static/js/main.09b6a481.js",
+    "main.js": "/facebook-login-redirect-authentication/static/js/main.cbd62f94.js",
     "static/js/787.1e4e5d01.chunk.js": "/facebook-login-redirect-authentication/static/js/787.1e4e5d01.chunk.js",
     "static/media/klavika-bold.otf": "/facebook-login-redirect-authentication/static/media/klavika-bold.531f1f08258c12326b4f.otf",
     "index.html": "/facebook-login-redirect-authentication/index.html",
     "main.c461429a.css.map": "/facebook-login-redirect-authentication/static/css/main.c461429a.css.map",
-    "main.09b6a481.js.map": "/facebook-login-redirect-authentication/static/js/main.09b6a481.js.map",
+    "main.cbd62f94.js.map": "/facebook-login-redirect-authentication/static/js/main.cbd62f94.js.map",
     "787.1e4e5d01.chunk.js.map": "/facebook-login-redirect-authentication/static/js/787.1e4e5d01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c461429a.css",
-    "static/js/main.09b6a481.js"
+    "static/js/main.cbd62f94.js"
   ]
 }
